@@ -1,123 +1,133 @@
 {
   "review_date": "2026-05-07",
   "prior_trading_day": "2026-05-06",
-  "generated_at": "2026-05-07T10:21:46.488924+00:00",
+  "generated_at": "2026-05-07T20:30:01.547958+00:00",
   "account": {
-    "equity": 100964.33,
+    "equity": 100413.88,
     "last_equity": 100714.62,
-    "cash": 55670.0,
-    "buying_power": 127753.61,
-    "portfolio_value": 100964.33
+    "cash": 79193.69,
+    "buying_power": 135716.37,
+    "portfolio_value": 100413.88
   },
   "portfolio_history": {
     "review_date_close_equity": 100714.62,
     "prior_close_equity": 99387.86,
-    "raw_window_size": 10
+    "raw_window_size": 9
   },
-  "fills": [],
+  "fills": [
+    {
+      "symbol": "TSLA",
+      "side": "sell",
+      "qty": 18.0,
+      "fill_price": 405.324444,
+      "fill_time": "2026-05-07T17:31:11.267699+00:00",
+      "order_type": "market",
+      "id": "e7eb8fa3-8edc-4d3b-b0e1-2d7e4c564923"
+    }
+  ],
   "open_positions": [
     {
       "symbol": "AAPL",
       "qty": 26.0,
       "side": "long",
       "entry_price": 283.99,
-      "current_price": 287.07,
-      "market_value": 7463.82,
-      "unrealized_pl": 80.08,
-      "unrealized_plpc": 0.01085
+      "current_price": 287.5065,
+      "market_value": 7475.169,
+      "unrealized_pl": 91.429,
+      "unrealized_plpc": 0.01238
     },
     {
       "symbol": "ARW",
       "qty": 38.0,
       "side": "long",
       "entry_price": 190.0,
-      "current_price": 191.85,
-      "market_value": 7290.3,
-      "unrealized_pl": 70.3,
-      "unrealized_plpc": 0.00974
+      "current_price": 189.83,
+      "market_value": 7213.54,
+      "unrealized_pl": -6.46,
+      "unrealized_plpc": -0.00089
     },
     {
       "symbol": "CAT",
       "qty": 8.0,
       "side": "long",
       "entry_price": 901.56,
-      "current_price": 925.9,
-      "market_value": 7407.2,
-      "unrealized_pl": 194.72,
-      "unrealized_plpc": 0.027
-    },
-    {
-      "symbol": "HELE",
-      "qty": 314.0,
-      "side": "long",
-      "entry_price": 23.75,
-      "current_price": 25.8,
-      "market_value": 8101.2,
-      "unrealized_pl": 643.7,
-      "unrealized_plpc": 0.08632
+      "current_price": 897.0,
+      "market_value": 7176.0,
+      "unrealized_pl": -36.48,
+      "unrealized_plpc": -0.00506
     },
     {
       "symbol": "IRM",
       "qty": 56.0,
       "side": "long",
       "entry_price": 129.7,
-      "current_price": 132.06,
-      "market_value": 7395.36,
-      "unrealized_pl": 132.16,
-      "unrealized_plpc": 0.0182
+      "current_price": 126.81,
+      "market_value": 7101.36,
+      "unrealized_pl": -161.84,
+      "unrealized_plpc": -0.02228
     },
     {
       "symbol": "KFRC",
       "qty": 172.0,
       "side": "long",
       "entry_price": 43.0,
-      "current_price": 42.09,
-      "market_value": 7239.48,
-      "unrealized_pl": -156.52,
-      "unrealized_plpc": -0.02116
+      "current_price": 43.26,
+      "market_value": 7440.72,
+      "unrealized_pl": 44.72,
+      "unrealized_plpc": 0.00605
     },
     {
       "symbol": "NVDA",
       "qty": -34.0,
       "side": "short",
       "entry_price": 212.444412,
-      "current_price": 208.69,
-      "market_value": -7095.46,
-      "unrealized_pl": 127.650008,
-      "unrealized_plpc": 0.01767
-    },
-    {
-      "symbol": "PANW",
-      "qty": 41.0,
-      "side": "long",
-      "entry_price": 182.75,
-      "current_price": 188.5,
-      "market_value": 7728.5,
-      "unrealized_pl": 235.75,
-      "unrealized_plpc": 0.03146
+      "current_price": 212.0,
+      "market_value": -7208.0,
+      "unrealized_pl": 15.110008,
+      "unrealized_plpc": 0.00209
     },
     {
       "symbol": "PWR",
       "qty": 9.0,
       "side": "long",
       "entry_price": 764.94,
-      "current_price": 789.87,
-      "market_value": 7108.83,
-      "unrealized_pl": 224.37,
-      "unrealized_plpc": 0.03259
+      "current_price": 751.0,
+      "market_value": 6759.0,
+      "unrealized_pl": -125.46,
+      "unrealized_plpc": -0.01822
     },
     {
       "symbol": "SPY",
       "qty": -10.0,
       "side": "short",
       "entry_price": 709.54,
-      "current_price": 734.49,
-      "market_value": -7344.9,
-      "unrealized_pl": -249.5,
-      "unrealized_plpc": -0.03516
+      "current_price": 732.03,
+      "market_value": -7320.3,
+      "unrealized_pl": -224.9,
+      "unrealized_plpc": -0.0317
+    },
+    {
+      "symbol": "TSLA",
+      "qty": -18.0,
+      "side": "short",
+      "entry_price": 405.324444,
+      "current_price": 412.0722,
+      "market_value": -7417.2996,
+      "unrealized_pl": -121.459608,
+      "unrealized_plpc": -0.01665
     }
   ],
   "open_orders": [
+    {
+      "symbol": "TSLA",
+      "side": "buy",
+      "qty": 18.0,
+      "order_type": "limit",
+      "limit_price": 350.88,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "eaea6bbf-faa0-4c6e-b533-4c0dae97af7a"
+    },
     {
       "symbol": "KFRC",
       "side": "sell",
@@ -179,16 +189,6 @@
       "id": "c83171e9-8537-4249-b160-f770d4402a4d"
     },
     {
-      "symbol": "SPY",
-      "side": "buy",
-      "qty": 10.0,
-      "order_type": "limit",
-      "limit_price": 629.35,
-      "stop_price": null,
-      "time_in_force": "gtc",
-      "id": "9b99854d-a2a5-41b2-869b-100ba4282216"
-    },
-    {
       "symbol": "NVDA",
       "side": "buy",
       "qty": 34.0,
@@ -197,30 +197,10 @@
       "stop_price": null,
       "time_in_force": "gtc",
       "id": "e9966995-0b8f-49b2-a8d1-b291fca8c1c8"
-    },
-    {
-      "symbol": "PANW",
-      "side": "sell",
-      "qty": 41.0,
-      "order_type": "limit",
-      "limit_price": 196.39,
-      "stop_price": null,
-      "time_in_force": "gtc",
-      "id": "5eba250e-fe83-48e4-a5b7-55b6b71a42fa"
-    },
-    {
-      "symbol": "HELE",
-      "side": "sell",
-      "qty": 314.0,
-      "order_type": "limit",
-      "limit_price": 25.98,
-      "stop_price": null,
-      "time_in_force": "gtc",
-      "id": "69481b2c-f195-42f6-a582-9e1430cfb4d7"
     }
   ],
   "spy": {
-    "review_date_close": null,
+    "review_date_close": 731.53,
     "prior_close": 733.77
   }
 }
