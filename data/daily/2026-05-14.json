@@ -1,0 +1,252 @@
+{
+  "review_date": "2026-05-14",
+  "prior_trading_day": "2026-05-13",
+  "generated_at": "2026-05-14T20:30:02.688131+00:00",
+  "account": {
+    "equity": 100029.1,
+    "last_equity": 99809.23,
+    "cash": 71872.79,
+    "buying_power": 149755.71,
+    "portfolio_value": 100029.1
+  },
+  "portfolio_history": {
+    "review_date_close_equity": 99809.23,
+    "prior_close_equity": 100130.75,
+    "raw_window_size": 9
+  },
+  "fills": [
+    {
+      "symbol": "TSLA",
+      "side": "sell",
+      "qty": 6.0,
+      "fill_price": 443.763333,
+      "fill_time": "2026-05-14T19:32:20.653128+00:00",
+      "order_type": "market",
+      "id": "9f9ca1bc-1a56-4092-83d6-a604c0ade702"
+    },
+    {
+      "symbol": "INTC",
+      "side": "sell",
+      "qty": 11.0,
+      "fill_price": 116.4,
+      "fill_time": "2026-05-14T18:30:58.491582+00:00",
+      "order_type": "market",
+      "id": "d32e0dc9-d03a-4221-860a-30e319217c3a"
+    },
+    {
+      "symbol": "AMD",
+      "side": "sell",
+      "qty": 16.0,
+      "fill_price": 448.68,
+      "fill_time": "2026-05-14T16:30:56.821150+00:00",
+      "order_type": "market",
+      "id": "107b5b52-abf4-4465-aa26-e5d8761049ed"
+    },
+    {
+      "symbol": "TSLA",
+      "side": "buy",
+      "qty": 8.0,
+      "fill_price": 442.90125,
+      "fill_time": "2026-05-14T14:30:59.752168+00:00",
+      "order_type": "market",
+      "id": "eb24fbf4-7875-4f51-9dcc-e51d7242b34e"
+    },
+    {
+      "symbol": "SPY",
+      "side": "buy",
+      "qty": 4.0,
+      "fill_price": 745.35,
+      "fill_time": "2026-05-14T13:40:06.252652+00:00",
+      "order_type": "market",
+      "id": "84d8e761-c5de-4575-b989-684ab1f9e4c0"
+    }
+  ],
+  "open_positions": [
+    {
+      "symbol": "AAPL",
+      "qty": 26.0,
+      "side": "long",
+      "entry_price": 283.99,
+      "current_price": 297.87,
+      "market_value": 7744.62,
+      "unrealized_pl": 360.88,
+      "unrealized_plpc": 0.04887
+    },
+    {
+      "symbol": "AMD",
+      "qty": -16.0,
+      "side": "short",
+      "entry_price": 448.68,
+      "current_price": 446.8725,
+      "market_value": -7149.96,
+      "unrealized_pl": 28.92,
+      "unrealized_plpc": 0.00403
+    },
+    {
+      "symbol": "CASY",
+      "qty": 6.0,
+      "side": "long",
+      "entry_price": 875.7,
+      "current_price": 877.48,
+      "market_value": 5264.88,
+      "unrealized_pl": 10.68,
+      "unrealized_plpc": 0.00203
+    },
+    {
+      "symbol": "CAT",
+      "qty": 8.0,
+      "side": "long",
+      "entry_price": 901.56,
+      "current_price": 920.0,
+      "market_value": 7360.0,
+      "unrealized_pl": 147.52,
+      "unrealized_plpc": 0.02045
+    },
+    {
+      "symbol": "INTC",
+      "qty": -11.0,
+      "side": "short",
+      "entry_price": 116.4,
+      "current_price": 115.29,
+      "market_value": -1268.19,
+      "unrealized_pl": 12.21,
+      "unrealized_plpc": 0.00954
+    },
+    {
+      "symbol": "LEA",
+      "qty": 43.0,
+      "side": "long",
+      "entry_price": 136.1,
+      "current_price": 139.06,
+      "market_value": 5979.58,
+      "unrealized_pl": 127.28,
+      "unrealized_plpc": 0.02175
+    },
+    {
+      "symbol": "PWR",
+      "qty": 9.0,
+      "side": "long",
+      "entry_price": 764.94,
+      "current_price": 780.08,
+      "market_value": 7020.72,
+      "unrealized_pl": 136.26,
+      "unrealized_plpc": 0.01979
+    },
+    {
+      "symbol": "TSLA",
+      "qty": -6.0,
+      "side": "short",
+      "entry_price": 443.763333,
+      "current_price": 442.49,
+      "market_value": -2654.94,
+      "unrealized_pl": 7.639998,
+      "unrealized_plpc": 0.00287
+    },
+    {
+      "symbol": "WTFC",
+      "qty": 40.0,
+      "side": "long",
+      "entry_price": 147.6,
+      "current_price": 146.49,
+      "market_value": 5859.6,
+      "unrealized_pl": -44.4,
+      "unrealized_plpc": -0.00752
+    }
+  ],
+  "open_orders": [
+    {
+      "symbol": "TSLA",
+      "side": "buy",
+      "qty": 6.0,
+      "order_type": "limit",
+      "limit_price": 390.1,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "d935e94e-fb7b-485e-abd3-2253edc9d5d0"
+    },
+    {
+      "symbol": "INTC",
+      "side": "buy",
+      "qty": 11.0,
+      "order_type": "limit",
+      "limit_price": 102.41,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "5bbe9338-fcbd-4367-b7fd-f54cf42fe1da"
+    },
+    {
+      "symbol": "AMD",
+      "side": "buy",
+      "qty": 16.0,
+      "order_type": "limit",
+      "limit_price": 394.4,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "7a8769a5-a245-4cc0-9fe9-e5f22e4f4381"
+    },
+    {
+      "symbol": "WTFC",
+      "side": "sell",
+      "qty": 40.0,
+      "order_type": "limit",
+      "limit_price": 161.6,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "af92cf5a-9de7-489e-9400-b528f808b454"
+    },
+    {
+      "symbol": "LEA",
+      "side": "sell",
+      "qty": 43.0,
+      "order_type": "limit",
+      "limit_price": 149.85,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "60750351-4900-4e1e-9400-002d6b096dd5"
+    },
+    {
+      "symbol": "CASY",
+      "side": "sell",
+      "qty": 6.0,
+      "order_type": "limit",
+      "limit_price": 961.16,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "a09535d0-bc2b-4040-b9d0-c8dc7848aad5"
+    },
+    {
+      "symbol": "PWR",
+      "side": "sell",
+      "qty": 9.0,
+      "order_type": "limit",
+      "limit_price": 841.43,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "ed734644-95a0-4819-9959-39e779816456"
+    },
+    {
+      "symbol": "CAT",
+      "side": "sell",
+      "qty": 8.0,
+      "order_type": "limit",
+      "limit_price": 991.72,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "c61752aa-ebe5-434e-ace1-e46bc7505ba3"
+    },
+    {
+      "symbol": "AAPL",
+      "side": "sell",
+      "qty": 26.0,
+      "order_type": "limit",
+      "limit_price": 312.39,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "b7589f09-12cd-4e8f-a373-2dff1f373728"
+    }
+  ],
+  "spy": {
+    "review_date_close": 748.1,
+    "prior_close": 742.3
+  }
+}
