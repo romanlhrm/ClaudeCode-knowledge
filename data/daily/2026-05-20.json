@@ -1,0 +1,85 @@
+{
+  "review_date": "2026-05-20",
+  "prior_trading_day": "2026-05-19",
+  "generated_at": "2026-05-20T20:30:01.171993+00:00",
+  "account": {
+    "equity": 99612.48,
+    "last_equity": 99730.6,
+    "cash": 86692.21,
+    "buying_power": 186304.69,
+    "portfolio_value": 99612.48
+  },
+  "portfolio_history": {
+    "review_date_close_equity": 99730.6,
+    "prior_close_equity": 99317.29,
+    "raw_window_size": 9
+  },
+  "fills": [
+    {
+      "symbol": "SPY",
+      "side": "buy",
+      "qty": 10.0,
+      "fill_price": 740.27,
+      "fill_time": "2026-05-20T18:31:25.884610+00:00",
+      "order_type": "market",
+      "id": "a1b89497-e8a3-44e3-98fa-954548ac5fdf"
+    },
+    {
+      "symbol": "TSLA",
+      "side": "buy",
+      "qty": 17.0,
+      "fill_price": 409.22,
+      "fill_time": "2026-05-20T14:31:05.223743+00:00",
+      "order_type": "market",
+      "id": "dd09b969-595c-45ab-9bcf-65bffeb3ef33"
+    }
+  ],
+  "open_positions": [
+    {
+      "symbol": "AAPL",
+      "qty": 26.0,
+      "side": "long",
+      "entry_price": 283.99,
+      "current_price": 301.81,
+      "market_value": 7847.06,
+      "unrealized_pl": 463.32,
+      "unrealized_plpc": 0.06275
+    },
+    {
+      "symbol": "CASY",
+      "qty": 6.0,
+      "side": "long",
+      "entry_price": 875.7,
+      "current_price": 845.4048,
+      "market_value": 5072.4288,
+      "unrealized_pl": -181.7712,
+      "unrealized_plpc": -0.0346
+    }
+  ],
+  "open_orders": [
+    {
+      "symbol": "CASY",
+      "side": "sell",
+      "qty": 6.0,
+      "order_type": "limit",
+      "limit_price": 961.16,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "a09535d0-bc2b-4040-b9d0-c8dc7848aad5"
+    },
+    {
+      "symbol": "AAPL",
+      "side": "sell",
+      "qty": 26.0,
+      "order_type": "limit",
+      "limit_price": 312.39,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "b7589f09-12cd-4e8f-a373-2dff1f373728"
+    }
+  ],
+  "spy": {
+    "review_date_close": 741.31,
+    "prior_close": 733.8
+  }
+}
