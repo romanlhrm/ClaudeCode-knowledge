@@ -1,0 +1,56 @@
+{
+  "review_date": "2026-05-21",
+  "prior_trading_day": "2026-05-20",
+  "generated_at": "2026-05-21T20:30:01.357822+00:00",
+  "account": {
+    "equity": 99628.39,
+    "last_equity": 99665.77,
+    "cash": 91708.27,
+    "buying_power": 191336.66,
+    "portfolio_value": 99628.39
+  },
+  "portfolio_history": {
+    "review_date_close_equity": 99665.77,
+    "prior_close_equity": 99730.6,
+    "raw_window_size": 9
+  },
+  "fills": [
+    {
+      "symbol": "CASY",
+      "side": "sell",
+      "qty": 6.0,
+      "fill_price": 836.01,
+      "fill_time": "2026-05-21T15:31:35.081424+00:00",
+      "order_type": "market",
+      "id": "c057764e-79a6-4c1a-81d2-0bd1ac9dafe4"
+    }
+  ],
+  "open_positions": [
+    {
+      "symbol": "AAPL",
+      "qty": 26.0,
+      "side": "long",
+      "entry_price": 283.99,
+      "current_price": 304.62,
+      "market_value": 7920.12,
+      "unrealized_pl": 536.38,
+      "unrealized_plpc": 0.07264
+    }
+  ],
+  "open_orders": [
+    {
+      "symbol": "AAPL",
+      "side": "sell",
+      "qty": 26.0,
+      "order_type": "limit",
+      "limit_price": 312.39,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "b7589f09-12cd-4e8f-a373-2dff1f373728"
+    }
+  ],
+  "spy": {
+    "review_date_close": 742.71,
+    "prior_close": 741.31
+  }
+}
