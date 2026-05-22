@@ -1,0 +1,141 @@
+{
+  "review_date": "2026-05-22",
+  "prior_trading_day": "2026-05-21",
+  "generated_at": "2026-05-22T20:30:01.346829+00:00",
+  "account": {
+    "equity": 99663.25,
+    "last_equity": 99638.0,
+    "cash": 89681.05,
+    "buying_power": 189344.3,
+    "portfolio_value": 99663.25
+  },
+  "portfolio_history": {
+    "review_date_close_equity": 99638.0,
+    "prior_close_equity": 99665.77,
+    "raw_window_size": 9
+  },
+  "fills": [
+    {
+      "symbol": "MRK",
+      "side": "buy",
+      "qty": 12.0,
+      "fill_price": 122.3,
+      "fill_time": "2026-05-22T19:31:23.827767+00:00",
+      "order_type": "market",
+      "id": "783cc97b-9fa0-4a0a-bf18-d4f0d40238ba"
+    },
+    {
+      "symbol": "NIO",
+      "side": "sell",
+      "qty": 1434.0,
+      "fill_price": 5.17,
+      "fill_time": "2026-05-22T19:31:24.955101+00:00",
+      "order_type": "market",
+      "id": "95141489-6b9c-4fe2-806c-764282390083"
+    },
+    {
+      "symbol": "LLY",
+      "side": "buy",
+      "qty": 1.0,
+      "fill_price": 1065.32,
+      "fill_time": "2026-05-22T18:31:00.752509+00:00",
+      "order_type": "market",
+      "id": "550d2e5a-b7b7-4561-b61c-30bfa736a733"
+    },
+    {
+      "symbol": "NOW",
+      "side": "buy",
+      "qty": 73.0,
+      "fill_price": 102.04,
+      "fill_time": "2026-05-22T17:30:53.349809+00:00",
+      "order_type": "market",
+      "id": "9b86ed8a-7eea-4676-b552-d5e6207c65f4"
+    },
+    {
+      "symbol": "NIO",
+      "side": "buy",
+      "qty": 1434.0,
+      "fill_price": 5.22,
+      "fill_time": "2026-05-22T15:26:06.929133+00:00",
+      "order_type": "market",
+      "id": "3e3d4217-5685-4ed2-8faa-31d960e4ae57"
+    },
+    {
+      "symbol": "AAPL",
+      "side": "sell",
+      "qty": 26.0,
+      "fill_price": 308.705,
+      "fill_time": "2026-05-22T14:31:10.755878+00:00",
+      "order_type": "market",
+      "id": "9171c340-64a7-41ef-8198-c63ee2ac7c18"
+    }
+  ],
+  "open_positions": [
+    {
+      "symbol": "LLY",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 1065.32,
+      "current_price": 1065.0,
+      "market_value": 1065.0,
+      "unrealized_pl": -0.32,
+      "unrealized_plpc": -0.0003
+    },
+    {
+      "symbol": "MRK",
+      "qty": 12.0,
+      "side": "long",
+      "entry_price": 122.3,
+      "current_price": 122.6,
+      "market_value": 1471.2,
+      "unrealized_pl": 3.6,
+      "unrealized_plpc": 0.00245
+    },
+    {
+      "symbol": "NOW",
+      "qty": 73.0,
+      "side": "long",
+      "entry_price": 102.04,
+      "current_price": 102.0,
+      "market_value": 7446.0,
+      "unrealized_pl": -2.92,
+      "unrealized_plpc": -0.00039
+    }
+  ],
+  "open_orders": [
+    {
+      "symbol": "MRK",
+      "side": "sell",
+      "qty": 12.0,
+      "order_type": "limit",
+      "limit_price": 136.95,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "5babdc42-4965-4227-a9e3-0de445bf2d92"
+    },
+    {
+      "symbol": "LLY",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 1192.85,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "6ae8567b-be1c-4780-8359-4fbfda68896c"
+    },
+    {
+      "symbol": "NOW",
+      "side": "sell",
+      "qty": 73.0,
+      "order_type": "limit",
+      "limit_price": 114.34,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "8a39028b-c375-416d-aa9c-f83f15baf370"
+    }
+  ],
+  "spy": {
+    "review_date_close": 745.67,
+    "prior_close": 742.71
+  }
+}
