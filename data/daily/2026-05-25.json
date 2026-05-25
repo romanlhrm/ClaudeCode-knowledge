@@ -1,0 +1,86 @@
+{
+  "review_date": "2026-05-25",
+  "prior_trading_day": "2026-05-22",
+  "generated_at": "2026-05-25T20:30:02.346552+00:00",
+  "account": {
+    "equity": 99670.21,
+    "last_equity": 99670.21,
+    "cash": 89680.8,
+    "buying_power": 189351.01,
+    "portfolio_value": 99670.21
+  },
+  "portfolio_history": {
+    "review_date_close_equity": null,
+    "prior_close_equity": 99670.21,
+    "raw_window_size": 10
+  },
+  "fills": [],
+  "open_positions": [
+    {
+      "symbol": "LLY",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 1065.32,
+      "current_price": 1065.0,
+      "market_value": 1065.0,
+      "unrealized_pl": -0.32,
+      "unrealized_plpc": -0.0003
+    },
+    {
+      "symbol": "MRK",
+      "qty": 12.0,
+      "side": "long",
+      "entry_price": 122.3,
+      "current_price": 122.41,
+      "market_value": 1468.92,
+      "unrealized_pl": 1.32,
+      "unrealized_plpc": 0.0009
+    },
+    {
+      "symbol": "NOW",
+      "qty": 73.0,
+      "side": "long",
+      "entry_price": 102.04,
+      "current_price": 102.13,
+      "market_value": 7455.49,
+      "unrealized_pl": 6.57,
+      "unrealized_plpc": 0.00088
+    }
+  ],
+  "open_orders": [
+    {
+      "symbol": "MRK",
+      "side": "sell",
+      "qty": 12.0,
+      "order_type": "limit",
+      "limit_price": 136.95,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "5babdc42-4965-4227-a9e3-0de445bf2d92"
+    },
+    {
+      "symbol": "LLY",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 1192.85,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "6ae8567b-be1c-4780-8359-4fbfda68896c"
+    },
+    {
+      "symbol": "NOW",
+      "side": "sell",
+      "qty": 73.0,
+      "order_type": "limit",
+      "limit_price": 114.34,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "8a39028b-c375-416d-aa9c-f83f15baf370"
+    }
+  ],
+  "spy": {
+    "review_date_close": null,
+    "prior_close": 745.67
+  }
+}
