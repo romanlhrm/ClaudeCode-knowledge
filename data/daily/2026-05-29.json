@@ -1,0 +1,250 @@
+{
+  "review_date": "2026-05-29",
+  "prior_trading_day": "2026-05-28",
+  "generated_at": "2026-05-29T20:30:01.741757+00:00",
+  "account": {
+    "equity": 99256.74,
+    "last_equity": 99677.73,
+    "cash": 82394.48,
+    "buying_power": 175562.29,
+    "portfolio_value": 99256.74
+  },
+  "portfolio_history": {
+    "review_date_close_equity": 99677.73,
+    "prior_close_equity": 99312.31,
+    "raw_window_size": 8
+  },
+  "fills": [
+    {
+      "symbol": "SFM",
+      "side": "sell",
+      "qty": 87.0,
+      "fill_price": 82.55,
+      "fill_time": "2026-05-29T16:31:11.174443+00:00",
+      "order_type": "market",
+      "id": "c78e57b3-973a-425e-a9a9-b3fcebb6fd43"
+    },
+    {
+      "symbol": "NVDA",
+      "side": "buy",
+      "qty": 6.0,
+      "fill_price": 215.73,
+      "fill_time": "2026-05-29T15:31:30.797464+00:00",
+      "order_type": "market",
+      "id": "f6cc96c7-c018-457b-b9c2-e12cd88b5fd0"
+    },
+    {
+      "symbol": "HUM",
+      "side": "sell",
+      "qty": 3.0,
+      "fill_price": 303.99,
+      "fill_time": "2026-05-29T14:31:13.721302+00:00",
+      "order_type": "market",
+      "id": "ae74ab00-9964-4037-80c9-6c84d1f692b2"
+    },
+    {
+      "symbol": "DRVN",
+      "side": "sell",
+      "qty": 73.0,
+      "fill_price": 14.02,
+      "fill_time": "2026-05-29T14:31:15.295724+00:00",
+      "order_type": "market",
+      "id": "252e75ab-5a32-4013-809c-7e55ee079327"
+    },
+    {
+      "symbol": "TSLA",
+      "side": "sell",
+      "qty": 7.0,
+      "fill_price": 439.105714,
+      "fill_time": "2026-05-29T13:45:57.674914+00:00",
+      "order_type": "market",
+      "id": "c393d9aa-068d-4492-a3e8-446b53212b65"
+    },
+    {
+      "symbol": "MCHP",
+      "side": "sell",
+      "qty": 11.0,
+      "fill_price": 97.542727,
+      "fill_time": "2026-05-29T13:46:00.004810+00:00",
+      "order_type": "market",
+      "id": "95a974d8-cf9c-4a8d-a895-da9a5922b837"
+    },
+    {
+      "symbol": "AAPL",
+      "side": "sell",
+      "qty": 24.0,
+      "fill_price": 314.05,
+      "fill_time": "2026-05-29T13:45:53.161217+00:00",
+      "order_type": "market",
+      "id": "fbc3aa6c-9ae9-42bc-b11b-2f12446ce0a8"
+    }
+  ],
+  "open_positions": [
+    {
+      "symbol": "AMAT",
+      "qty": 2.0,
+      "side": "long",
+      "entry_price": 440.8,
+      "current_price": 450.06,
+      "market_value": 900.12,
+      "unrealized_pl": 18.52,
+      "unrealized_plpc": 0.02101
+    },
+    {
+      "symbol": "GILD",
+      "qty": 54.0,
+      "side": "long",
+      "entry_price": 135.77,
+      "current_price": 134.8,
+      "market_value": 7279.2,
+      "unrealized_pl": -52.38,
+      "unrealized_plpc": -0.00714
+    },
+    {
+      "symbol": "IFF",
+      "qty": 13.0,
+      "side": "long",
+      "entry_price": 76.85,
+      "current_price": 76.05,
+      "market_value": 988.65,
+      "unrealized_pl": -10.4,
+      "unrealized_plpc": -0.01041
+    },
+    {
+      "symbol": "LLY",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 1065.32,
+      "current_price": 1103.88,
+      "market_value": 1103.88,
+      "unrealized_pl": 38.56,
+      "unrealized_plpc": 0.0362
+    },
+    {
+      "symbol": "LRCX",
+      "qty": 23.0,
+      "side": "long",
+      "entry_price": 315.85,
+      "current_price": 318.2,
+      "market_value": 7318.6,
+      "unrealized_pl": 54.05,
+      "unrealized_plpc": 0.00744
+    },
+    {
+      "symbol": "MS",
+      "qty": 5.0,
+      "side": "long",
+      "entry_price": 202.36,
+      "current_price": 208.0,
+      "market_value": 1040.0,
+      "unrealized_pl": 28.2,
+      "unrealized_plpc": 0.02787
+    },
+    {
+      "symbol": "NVDA",
+      "qty": 6.0,
+      "side": "long",
+      "entry_price": 215.73,
+      "current_price": 212.68,
+      "market_value": 1276.08,
+      "unrealized_pl": -18.3,
+      "unrealized_plpc": -0.01414
+    },
+    {
+      "symbol": "TSLA",
+      "qty": -7.0,
+      "side": "short",
+      "entry_price": 439.105714,
+      "current_price": 434.9238,
+      "market_value": -3044.4666,
+      "unrealized_pl": 29.273398,
+      "unrealized_plpc": 0.00952
+    }
+  ],
+  "open_orders": [
+    {
+      "symbol": "NVDA",
+      "side": "sell",
+      "qty": 6.0,
+      "order_type": "limit",
+      "limit_price": 241.21,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "2cd71a51-b0e0-4f3c-950a-ddae2a8f0d9c"
+    },
+    {
+      "symbol": "TSLA",
+      "side": "buy",
+      "qty": 7.0,
+      "order_type": "limit",
+      "limit_price": 396.21,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "ca0e7006-150f-4f6a-9a1f-a090e8ccc38a"
+    },
+    {
+      "symbol": "MS",
+      "side": "sell",
+      "qty": 5.0,
+      "order_type": "limit",
+      "limit_price": 222.52,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "171195d9-887b-4247-bcd1-ecc3b32aceb5"
+    },
+    {
+      "symbol": "IFF",
+      "side": "sell",
+      "qty": 13.0,
+      "order_type": "limit",
+      "limit_price": 83.74,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "884fc898-16bd-43e9-adfd-500b70a27303"
+    },
+    {
+      "symbol": "AMAT",
+      "side": "sell",
+      "qty": 2.0,
+      "order_type": "limit",
+      "limit_price": 484.54,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "96972bb5-65a9-4577-b9ef-69184d8b37f7"
+    },
+    {
+      "symbol": "LRCX",
+      "side": "sell",
+      "qty": 23.0,
+      "order_type": "limit",
+      "limit_price": 346.93,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "af19f6b0-7710-4f6a-82b0-27c5bc10d2a2"
+    },
+    {
+      "symbol": "GILD",
+      "side": "sell",
+      "qty": 54.0,
+      "order_type": "limit",
+      "limit_price": 149.5,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "9a18870a-fcaf-4b61-8582-12ded8c570d4"
+    },
+    {
+      "symbol": "LLY",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 1192.85,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "6ae8567b-be1c-4780-8359-4fbfda68896c"
+    }
+  ],
+  "spy": {
+    "review_date_close": 756.34,
+    "prior_close": 754.68
+  }
+}
