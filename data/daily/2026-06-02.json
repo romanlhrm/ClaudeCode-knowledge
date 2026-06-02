@@ -1,0 +1,252 @@
+{
+  "review_date": "2026-06-02",
+  "prior_trading_day": "2026-06-01",
+  "generated_at": "2026-06-02T20:30:01.225593+00:00",
+  "account": {
+    "equity": 100044.32,
+    "last_equity": 99609.51,
+    "cash": 70121.34,
+    "buying_power": 345647.89,
+    "portfolio_value": 100044.32
+  },
+  "portfolio_history": {
+    "review_date_close_equity": 99609.51,
+    "prior_close_equity": 99221.88,
+    "raw_window_size": 8
+  },
+  "fills": [
+    {
+      "symbol": "MU",
+      "side": "buy",
+      "qty": 2.0,
+      "fill_price": 1045.73,
+      "fill_time": "2026-06-02T17:31:23.972282+00:00",
+      "order_type": "market",
+      "id": "e95ebe3c-5b7f-444f-9c1b-5a7868b287b5"
+    },
+    {
+      "symbol": "SNOW",
+      "side": "buy",
+      "qty": 3.0,
+      "fill_price": 257.01,
+      "fill_time": "2026-06-02T15:31:18.433970+00:00",
+      "order_type": "market",
+      "id": "c9237cfa-d9f0-4421-b403-3a1eb86b06d7"
+    },
+    {
+      "symbol": "ORCL",
+      "side": "buy",
+      "qty": 3.0,
+      "fill_price": 239.99,
+      "fill_time": "2026-06-02T14:31:30.164190+00:00",
+      "order_type": "market",
+      "id": "5afde554-fc3e-485a-b239-efb457fdfc48"
+    },
+    {
+      "symbol": "PANW",
+      "side": "sell",
+      "qty": 25.0,
+      "fill_price": 293.8,
+      "fill_time": "2026-06-02T14:30:14.947343+00:00",
+      "order_type": "market",
+      "id": "710630ac-34ea-41fb-b14b-7b6c7c8cd030"
+    },
+    {
+      "symbol": "TSLA",
+      "side": "buy",
+      "qty": 7.0,
+      "fill_price": 414.91,
+      "fill_time": "2026-06-02T13:52:51.093422+00:00",
+      "order_type": "market",
+      "id": "54e9f50c-9137-488c-a123-ad33fce75b4e"
+    }
+  ],
+  "open_positions": [
+    {
+      "symbol": "AMD",
+      "qty": 15.0,
+      "side": "long",
+      "entry_price": 492.518,
+      "current_price": 520.1605,
+      "market_value": 7802.4075,
+      "unrealized_pl": 414.6375,
+      "unrealized_plpc": 0.05612
+    },
+    {
+      "symbol": "AON",
+      "qty": 23.0,
+      "side": "long",
+      "entry_price": 316.0,
+      "current_price": 317.86,
+      "market_value": 7310.78,
+      "unrealized_pl": 42.78,
+      "unrealized_plpc": 0.00589
+    },
+    {
+      "symbol": "LLY",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 1065.32,
+      "current_price": 1064.99,
+      "market_value": 1064.99,
+      "unrealized_pl": -0.33,
+      "unrealized_plpc": -0.00031
+    },
+    {
+      "symbol": "LRCX",
+      "qty": 23.0,
+      "side": "long",
+      "entry_price": 315.85,
+      "current_price": 333.9,
+      "market_value": 7679.7,
+      "unrealized_pl": 415.15,
+      "unrealized_plpc": 0.05715
+    },
+    {
+      "symbol": "MS",
+      "qty": 5.0,
+      "side": "long",
+      "entry_price": 202.36,
+      "current_price": 214.98,
+      "market_value": 1074.9,
+      "unrealized_pl": 63.1,
+      "unrealized_plpc": 0.06236
+    },
+    {
+      "symbol": "MU",
+      "qty": 2.0,
+      "side": "long",
+      "entry_price": 1045.73,
+      "current_price": 1065.0,
+      "market_value": 2130.0,
+      "unrealized_pl": 38.54,
+      "unrealized_plpc": 0.01843
+    },
+    {
+      "symbol": "NVDA",
+      "qty": 6.0,
+      "side": "long",
+      "entry_price": 215.73,
+      "current_price": 222.6353,
+      "market_value": 1335.8118,
+      "unrealized_pl": 41.4318,
+      "unrealized_plpc": 0.03201
+    },
+    {
+      "symbol": "ORCL",
+      "qty": 3.0,
+      "side": "long",
+      "entry_price": 239.99,
+      "current_price": 244.7,
+      "market_value": 734.1,
+      "unrealized_pl": 14.13,
+      "unrealized_plpc": 0.01963
+    },
+    {
+      "symbol": "SNOW",
+      "qty": 3.0,
+      "side": "long",
+      "entry_price": 257.01,
+      "current_price": 263.4,
+      "market_value": 790.2,
+      "unrealized_pl": 19.17,
+      "unrealized_plpc": 0.02486
+    }
+  ],
+  "open_orders": [
+    {
+      "symbol": "MU",
+      "side": "sell",
+      "qty": 2.0,
+      "order_type": "limit",
+      "limit_price": 1170.97,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "f95f3ceb-960c-44a9-8f91-e38959de4091"
+    },
+    {
+      "symbol": "SNOW",
+      "side": "sell",
+      "qty": 3.0,
+      "order_type": "limit",
+      "limit_price": 287.57,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "5cd57782-c54f-4c20-a1d6-77734c9ac9a8"
+    },
+    {
+      "symbol": "ORCL",
+      "side": "sell",
+      "qty": 3.0,
+      "order_type": "limit",
+      "limit_price": 268.42,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "e9f5b544-ba07-4662-b3a0-67f044f2030f"
+    },
+    {
+      "symbol": "AON",
+      "side": "sell",
+      "qty": 23.0,
+      "order_type": "limit",
+      "limit_price": 347.6,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "fd34c9e5-d7ef-4e2e-89c3-229e7986de50"
+    },
+    {
+      "symbol": "AMD",
+      "side": "sell",
+      "qty": 15.0,
+      "order_type": "limit",
+      "limit_price": 541.77,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "251f609c-2aea-4585-9bd6-cafd30c26141"
+    },
+    {
+      "symbol": "NVDA",
+      "side": "sell",
+      "qty": 6.0,
+      "order_type": "limit",
+      "limit_price": 241.21,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "2cd71a51-b0e0-4f3c-950a-ddae2a8f0d9c"
+    },
+    {
+      "symbol": "MS",
+      "side": "sell",
+      "qty": 5.0,
+      "order_type": "limit",
+      "limit_price": 222.52,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "171195d9-887b-4247-bcd1-ecc3b32aceb5"
+    },
+    {
+      "symbol": "LRCX",
+      "side": "sell",
+      "qty": 23.0,
+      "order_type": "limit",
+      "limit_price": 346.93,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "af19f6b0-7710-4f6a-82b0-27c5bc10d2a2"
+    },
+    {
+      "symbol": "LLY",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 1192.85,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "6ae8567b-be1c-4780-8359-4fbfda68896c"
+    }
+  ],
+  "spy": {
+    "review_date_close": 759.47,
+    "prior_close": 758.44
+  }
+}
