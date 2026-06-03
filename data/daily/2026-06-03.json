@@ -1,0 +1,180 @@
+{
+  "review_date": "2026-06-03",
+  "prior_trading_day": "2026-06-02",
+  "generated_at": "2026-06-03T20:30:01.674694+00:00",
+  "account": {
+    "equity": 100127.42,
+    "last_equity": 99575.81,
+    "cash": 74368.47,
+    "buying_power": 353140.56,
+    "portfolio_value": 100127.42
+  },
+  "portfolio_history": {
+    "review_date_close_equity": 99575.81,
+    "prior_close_equity": 99609.51,
+    "raw_window_size": 8
+  },
+  "fills": [
+    {
+      "symbol": "ICE",
+      "side": "sell",
+      "qty": 53.0,
+      "fill_price": 137.65,
+      "fill_time": "2026-06-03T19:31:43.241954+00:00",
+      "order_type": "market",
+      "id": "e2a06a88-20e9-4dcb-8c2d-0a0a6b47b50a"
+    },
+    {
+      "symbol": "NET",
+      "side": "buy",
+      "qty": 28.0,
+      "fill_price": 266.57,
+      "fill_time": "2026-06-03T18:31:06.836725+00:00",
+      "order_type": "market",
+      "id": "3eae74f9-219c-45fd-b484-84fec578bcb4"
+    },
+    {
+      "symbol": "ORCL",
+      "side": "sell",
+      "qty": 3.0,
+      "fill_price": 231.51,
+      "fill_time": "2026-06-03T15:31:16.104946+00:00",
+      "order_type": "market",
+      "id": "a2f218fb-097e-41ad-9f33-326e10e1630e"
+    },
+    {
+      "symbol": "SNOW",
+      "side": "sell",
+      "qty": 3.0,
+      "fill_price": 247.5,
+      "fill_time": "2026-06-03T14:31:48.218724+00:00",
+      "order_type": "market",
+      "id": "b705706b-1e7d-41d3-b7d3-ecee077ed2ab"
+    },
+    {
+      "symbol": "NVDA",
+      "side": "sell",
+      "qty": 6.0,
+      "fill_price": 216.12,
+      "fill_time": "2026-06-03T14:30:21.295336+00:00",
+      "order_type": "market",
+      "id": "53ddb06d-27d7-4fe2-b6d1-ed38aabb9153"
+    },
+    {
+      "symbol": "MS",
+      "side": "sell",
+      "qty": 5.0,
+      "fill_price": 210.08,
+      "fill_time": "2026-06-03T14:30:21.264888+00:00",
+      "order_type": "market",
+      "id": "ff8bd972-dcae-43de-ad41-83d8fd4ef45e"
+    },
+    {
+      "symbol": "ICE",
+      "side": "buy",
+      "qty": 53.0,
+      "fill_price": 141.61,
+      "fill_time": "2026-06-03T13:45:42.883067+00:00",
+      "order_type": "market",
+      "id": "dd65bf5a-8847-4c42-b89d-c9ea179677d3"
+    }
+  ],
+  "open_positions": [
+    {
+      "symbol": "AON",
+      "qty": 23.0,
+      "side": "long",
+      "entry_price": 316.0,
+      "current_price": 315.58,
+      "market_value": 7258.34,
+      "unrealized_pl": -9.66,
+      "unrealized_plpc": -0.00133
+    },
+    {
+      "symbol": "LLY",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 1065.32,
+      "current_price": 1084.4534,
+      "market_value": 1084.4534,
+      "unrealized_pl": 19.1334,
+      "unrealized_plpc": 0.01796
+    },
+    {
+      "symbol": "LRCX",
+      "qty": 23.0,
+      "side": "long",
+      "entry_price": 315.85,
+      "current_price": 345.0,
+      "market_value": 7935.0,
+      "unrealized_pl": 670.45,
+      "unrealized_plpc": 0.09229
+    },
+    {
+      "symbol": "MU",
+      "qty": 2.0,
+      "side": "long",
+      "entry_price": 1045.73,
+      "current_price": 1068.16,
+      "market_value": 2136.32,
+      "unrealized_pl": 44.86,
+      "unrealized_plpc": 0.02145
+    },
+    {
+      "symbol": "NET",
+      "qty": 28.0,
+      "side": "long",
+      "entry_price": 266.57,
+      "current_price": 262.32,
+      "market_value": 7344.96,
+      "unrealized_pl": -119.0,
+      "unrealized_plpc": -0.01594
+    }
+  ],
+  "open_orders": [
+    {
+      "symbol": "MU",
+      "side": "sell",
+      "qty": 2.0,
+      "order_type": "limit",
+      "limit_price": 1170.97,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "f95f3ceb-960c-44a9-8f91-e38959de4091"
+    },
+    {
+      "symbol": "AON",
+      "side": "sell",
+      "qty": 23.0,
+      "order_type": "limit",
+      "limit_price": 347.6,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "fd34c9e5-d7ef-4e2e-89c3-229e7986de50"
+    },
+    {
+      "symbol": "LRCX",
+      "side": "sell",
+      "qty": 23.0,
+      "order_type": "limit",
+      "limit_price": 346.93,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "af19f6b0-7710-4f6a-82b0-27c5bc10d2a2"
+    },
+    {
+      "symbol": "LLY",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 1192.85,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "6ae8567b-be1c-4780-8359-4fbfda68896c"
+    }
+  ],
+  "spy": {
+    "review_date_close": 754.18,
+    "prior_close": 759.47
+  }
+}
