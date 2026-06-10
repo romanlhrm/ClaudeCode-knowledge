@@ -1,0 +1,340 @@
+{
+  "review_date": "2026-06-10",
+  "prior_trading_day": "2026-06-09",
+  "generated_at": "2026-06-10T20:30:01.156181+00:00",
+  "account": {
+    "equity": 97739.5,
+    "last_equity": 98462.98,
+    "cash": 64633.09,
+    "buying_power": 316179.42,
+    "portfolio_value": 97739.5
+  },
+  "portfolio_history": {
+    "review_date_close_equity": 98462.98,
+    "prior_close_equity": 98552.05,
+    "raw_window_size": 9
+  },
+  "fills": [
+    {
+      "symbol": "EL",
+      "side": "sell",
+      "qty": 2.0,
+      "fill_price": 85.03,
+      "fill_time": "2026-06-10T19:30:10.941683+00:00",
+      "order_type": "market",
+      "id": "d5973754-d9b9-4a6a-9b6b-65a0bbb6b290"
+    },
+    {
+      "symbol": "TSLA",
+      "side": "sell",
+      "qty": 18.0,
+      "fill_price": 384.14,
+      "fill_time": "2026-06-10T16:31:32.480174+00:00",
+      "order_type": "market",
+      "id": "8ffe926c-0219-410a-9857-f3ffa8b98f25"
+    },
+    {
+      "symbol": "KSS",
+      "side": "sell",
+      "qty": 466.0,
+      "fill_price": 15.81,
+      "fill_time": "2026-06-10T13:46:51.097375+00:00",
+      "order_type": "market",
+      "id": "963a7ab5-1e5b-45bb-b73a-79a5c4b400c5"
+    },
+    {
+      "symbol": "APTV",
+      "side": "buy",
+      "qty": 1.0,
+      "fill_price": 67.21,
+      "fill_time": "2026-06-10T13:46:50.328844+00:00",
+      "order_type": "market",
+      "id": "2d191949-1d1f-44a2-8ac7-f3daf9ccde29"
+    },
+    {
+      "symbol": "MS",
+      "side": "buy",
+      "qty": 17.0,
+      "fill_price": 209.19,
+      "fill_time": "2026-06-10T13:46:50.920600+00:00",
+      "order_type": "market",
+      "id": "8dffe6c8-a001-4bcf-b36f-eb7ac152b5ac"
+    },
+    {
+      "symbol": "BWA",
+      "side": "buy",
+      "qty": 99.0,
+      "fill_price": 74.54,
+      "fill_time": "2026-06-10T13:46:51.258362+00:00",
+      "order_type": "market",
+      "id": "ea66f04e-d5db-4be1-9a32-bc6026ed593b"
+    },
+    {
+      "symbol": "DECK",
+      "side": "buy",
+      "qty": 27.0,
+      "fill_price": 111.75,
+      "fill_time": "2026-06-10T13:46:51.904347+00:00",
+      "order_type": "market",
+      "id": "2bd40c03-565c-4d97-b693-eaa057004967"
+    }
+  ],
+  "open_positions": [
+    {
+      "symbol": "AON",
+      "qty": 23.0,
+      "side": "long",
+      "entry_price": 316.0,
+      "current_price": 336.33,
+      "market_value": 7735.59,
+      "unrealized_pl": 467.59,
+      "unrealized_plpc": 0.06434
+    },
+    {
+      "symbol": "APTV",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 67.21,
+      "current_price": 65.2,
+      "market_value": 65.2,
+      "unrealized_pl": -2.01,
+      "unrealized_plpc": -0.02991
+    },
+    {
+      "symbol": "BAC",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 54.52,
+      "current_price": 54.58,
+      "market_value": 54.58,
+      "unrealized_pl": 0.06,
+      "unrealized_plpc": 0.0011
+    },
+    {
+      "symbol": "BWA",
+      "qty": 99.0,
+      "side": "long",
+      "entry_price": 74.54,
+      "current_price": 71.29,
+      "market_value": 7057.71,
+      "unrealized_pl": -321.75,
+      "unrealized_plpc": -0.0436
+    },
+    {
+      "symbol": "CCI",
+      "qty": 79.0,
+      "side": "long",
+      "entry_price": 94.346709,
+      "current_price": 93.38,
+      "market_value": 7377.02,
+      "unrealized_pl": -76.370011,
+      "unrealized_plpc": -0.01025
+    },
+    {
+      "symbol": "DECK",
+      "qty": 66.0,
+      "side": "long",
+      "entry_price": 113.250909,
+      "current_price": 111.18,
+      "market_value": 7337.88,
+      "unrealized_pl": -136.679994,
+      "unrealized_plpc": -0.01829
+    },
+    {
+      "symbol": "DHR",
+      "qty": 39.0,
+      "side": "long",
+      "entry_price": 188.23,
+      "current_price": 183.63,
+      "market_value": 7161.57,
+      "unrealized_pl": -179.4,
+      "unrealized_plpc": -0.02444
+    },
+    {
+      "symbol": "FDX",
+      "qty": -22.0,
+      "side": "short",
+      "entry_price": 328.58,
+      "current_price": 319.25,
+      "market_value": -7023.5,
+      "unrealized_pl": 205.26,
+      "unrealized_plpc": 0.02839
+    },
+    {
+      "symbol": "KSS",
+      "qty": -466.0,
+      "side": "short",
+      "entry_price": 15.81,
+      "current_price": 15.87,
+      "market_value": -7395.42,
+      "unrealized_pl": -27.96,
+      "unrealized_plpc": -0.0038
+    },
+    {
+      "symbol": "LEVI",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 23.87,
+      "current_price": 22.95,
+      "market_value": 22.95,
+      "unrealized_pl": -0.92,
+      "unrealized_plpc": -0.03854
+    },
+    {
+      "symbol": "MS",
+      "qty": 17.0,
+      "side": "long",
+      "entry_price": 209.19,
+      "current_price": 206.66,
+      "market_value": 3513.22,
+      "unrealized_pl": -43.01,
+      "unrealized_plpc": -0.01209
+    },
+    {
+      "symbol": "NVDA",
+      "qty": 36.0,
+      "side": "long",
+      "entry_price": 201.31,
+      "current_price": 199.9893,
+      "market_value": 7199.6148,
+      "unrealized_pl": -47.5452,
+      "unrealized_plpc": -0.00656
+    }
+  ],
+  "open_orders": [
+    {
+      "symbol": "MS",
+      "side": "sell",
+      "qty": 17.0,
+      "order_type": "limit",
+      "limit_price": 229.8,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "d8dd7dfb-cfa4-4609-bb7b-4b10e5d4702f"
+    },
+    {
+      "symbol": "KSS",
+      "side": "buy",
+      "qty": 466.0,
+      "order_type": "limit",
+      "limit_price": 14.26,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "12c33a0f-174b-4d8c-8d50-d679666557d4"
+    },
+    {
+      "symbol": "BWA",
+      "side": "sell",
+      "qty": 99.0,
+      "order_type": "limit",
+      "limit_price": 81.63,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "7e468476-0f3e-4c9d-bbe9-6471551ab7d9"
+    },
+    {
+      "symbol": "APTV",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 73.95,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "bc5736ac-d082-421b-b363-7b7aaa8df7bb"
+    },
+    {
+      "symbol": "DECK",
+      "side": "sell",
+      "qty": 27.0,
+      "order_type": "limit",
+      "limit_price": 123.13,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "8a0cca11-da01-4bea-a30b-458b9d8a4f27"
+    },
+    {
+      "symbol": "NVDA",
+      "side": "sell",
+      "qty": 36.0,
+      "order_type": "limit",
+      "limit_price": 225.67,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "5f0f965c-31b9-4a79-9d99-f9281c4c284d"
+    },
+    {
+      "symbol": "LEVI",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 26.16,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "d13108d4-8354-460c-ba8d-230932dd3f63"
+    },
+    {
+      "symbol": "DECK",
+      "side": "sell",
+      "qty": 39.0,
+      "order_type": "limit",
+      "limit_price": 125.44,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "a39dfe74-0240-49bc-b8d8-d4c671fd6cbf"
+    },
+    {
+      "symbol": "BAC",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 60.03,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "cc8e4166-352a-4704-b50e-03d978a5381a"
+    },
+    {
+      "symbol": "FDX",
+      "side": "buy",
+      "qty": 22.0,
+      "order_type": "limit",
+      "limit_price": 289.33,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "a928c333-3ccd-4034-959d-f5d5f244dcac"
+    },
+    {
+      "symbol": "DHR",
+      "side": "sell",
+      "qty": 39.0,
+      "order_type": "limit",
+      "limit_price": 207.05,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "30e11910-59a8-4ce4-a103-86df9959b554"
+    },
+    {
+      "symbol": "CCI",
+      "side": "sell",
+      "qty": 79.0,
+      "order_type": "limit",
+      "limit_price": 103.8,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "5bf773c1-9198-46a7-98a5-d853c20d691d"
+    },
+    {
+      "symbol": "AON",
+      "side": "sell",
+      "qty": 23.0,
+      "order_type": "limit",
+      "limit_price": 347.6,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "fd34c9e5-d7ef-4e2e-89c3-229e7986de50"
+    }
+  ],
+  "spy": {
+    "review_date_close": 725.58,
+    "prior_close": 737.07
+  }
+}
