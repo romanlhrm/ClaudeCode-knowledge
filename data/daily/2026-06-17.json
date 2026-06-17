@@ -1,0 +1,230 @@
+{
+  "review_date": "2026-06-17",
+  "prior_trading_day": "2026-06-16",
+  "generated_at": "2026-06-17T20:30:01.317523+00:00",
+  "account": {
+    "equity": 97336.62,
+    "last_equity": 97585.08,
+    "cash": 56172.45,
+    "buying_power": 339949.47,
+    "portfolio_value": 97336.62
+  },
+  "portfolio_history": {
+    "review_date_close_equity": 97585.08,
+    "prior_close_equity": 98022.54,
+    "raw_window_size": 9
+  },
+  "fills": [
+    {
+      "symbol": "BKNG",
+      "side": "sell",
+      "qty": 41.0,
+      "fill_price": 173.31,
+      "fill_time": "2026-06-17T18:32:12.354034+00:00",
+      "order_type": "market",
+      "id": "882b6a1b-3c6d-40bd-8c66-c07276338d3f"
+    },
+    {
+      "symbol": "AMAT",
+      "side": "sell",
+      "qty": 3.0,
+      "fill_price": 609.1,
+      "fill_time": "2026-06-17T17:31:31.148488+00:00",
+      "order_type": "market",
+      "id": "7af31521-bd8c-43b7-a13b-980af705b99e"
+    },
+    {
+      "symbol": "VRSK",
+      "side": "sell",
+      "qty": 40.0,
+      "fill_price": 178.17,
+      "fill_time": "2026-06-17T17:31:31.158719+00:00",
+      "order_type": "market",
+      "id": "b90a623a-89a6-4d25-9226-1c0a17ddddab"
+    },
+    {
+      "symbol": "AVGO",
+      "side": "buy",
+      "qty": 18.0,
+      "fill_price": 397.95,
+      "fill_time": "2026-06-17T16:31:33.883756+00:00",
+      "order_type": "market",
+      "id": "e5d45a39-0286-4f84-95cd-1e3a9faf27af"
+    },
+    {
+      "symbol": "CDNS",
+      "side": "buy",
+      "qty": 3.0,
+      "fill_price": 394.99,
+      "fill_time": "2026-06-17T13:45:31.994607+00:00",
+      "order_type": "market",
+      "id": "8676b0c4-e4d8-414a-a119-cd6018028bf8"
+    },
+    {
+      "symbol": "DECK",
+      "side": "sell",
+      "qty": 66.0,
+      "fill_price": 111.34,
+      "fill_time": "2026-06-17T13:45:32.669622+00:00",
+      "order_type": "market",
+      "id": "7b228ef7-e216-4896-b791-bc57c4cbfda2"
+    },
+    {
+      "symbol": "NOW",
+      "side": "sell",
+      "qty": 54.0,
+      "fill_price": 101.068889,
+      "fill_time": "2026-06-17T13:45:33.377572+00:00",
+      "order_type": "market",
+      "id": "bca5894b-2e7e-4c10-844d-8585f35487f5"
+    }
+  ],
+  "open_positions": [
+    {
+      "symbol": "ABBV",
+      "qty": 32.0,
+      "side": "long",
+      "entry_price": 225.23,
+      "current_price": 221.23,
+      "market_value": 7079.36,
+      "unrealized_pl": -128.0,
+      "unrealized_plpc": -0.01776
+    },
+    {
+      "symbol": "AON",
+      "qty": 23.0,
+      "side": "long",
+      "entry_price": 316.0,
+      "current_price": 326.69,
+      "market_value": 7513.87,
+      "unrealized_pl": 245.87,
+      "unrealized_plpc": 0.03383
+    },
+    {
+      "symbol": "AVGO",
+      "qty": 18.0,
+      "side": "long",
+      "entry_price": 397.95,
+      "current_price": 394.9854,
+      "market_value": 7109.7372,
+      "unrealized_pl": -53.3628,
+      "unrealized_plpc": -0.00745
+    },
+    {
+      "symbol": "CDNS",
+      "qty": 3.0,
+      "side": "long",
+      "entry_price": 394.99,
+      "current_price": 390.06,
+      "market_value": 1170.18,
+      "unrealized_pl": -14.79,
+      "unrealized_plpc": -0.01248
+    },
+    {
+      "symbol": "CFG",
+      "qty": 106.0,
+      "side": "long",
+      "entry_price": 67.37,
+      "current_price": 66.83,
+      "market_value": 7083.98,
+      "unrealized_pl": -57.24,
+      "unrealized_plpc": -0.00802
+    },
+    {
+      "symbol": "MS",
+      "qty": 17.0,
+      "side": "long",
+      "entry_price": 209.19,
+      "current_price": 225.12,
+      "market_value": 3827.04,
+      "unrealized_pl": 270.81,
+      "unrealized_plpc": 0.07615
+    },
+    {
+      "symbol": "NVDA",
+      "qty": 36.0,
+      "side": "long",
+      "entry_price": 201.31,
+      "current_price": 205.02,
+      "market_value": 7380.72,
+      "unrealized_pl": 133.56,
+      "unrealized_plpc": 0.01843
+    }
+  ],
+  "open_orders": [
+    {
+      "symbol": "AVGO",
+      "side": "sell",
+      "qty": 18.0,
+      "order_type": "limit",
+      "limit_price": 446.16,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "8469d516-b82d-4255-a36c-0434dfae2c38"
+    },
+    {
+      "symbol": "CDNS",
+      "side": "sell",
+      "qty": 3.0,
+      "order_type": "limit",
+      "limit_price": 431.38,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "7912794f-b33f-4f29-8783-61a326fb75f2"
+    },
+    {
+      "symbol": "CFG",
+      "side": "sell",
+      "qty": 106.0,
+      "order_type": "limit",
+      "limit_price": 74.1,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "19d1d9b5-78bd-49b6-a0b0-53b652927101"
+    },
+    {
+      "symbol": "ABBV",
+      "side": "sell",
+      "qty": 32.0,
+      "order_type": "limit",
+      "limit_price": 247.75,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "378d07da-8012-413b-8da0-d8e16ca66003"
+    },
+    {
+      "symbol": "MS",
+      "side": "sell",
+      "qty": 17.0,
+      "order_type": "limit",
+      "limit_price": 229.8,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "d8dd7dfb-cfa4-4609-bb7b-4b10e5d4702f"
+    },
+    {
+      "symbol": "NVDA",
+      "side": "sell",
+      "qty": 36.0,
+      "order_type": "limit",
+      "limit_price": 225.67,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "5f0f965c-31b9-4a79-9d99-f9281c4c284d"
+    },
+    {
+      "symbol": "AON",
+      "side": "sell",
+      "qty": 23.0,
+      "order_type": "limit",
+      "limit_price": 347.6,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "fd34c9e5-d7ef-4e2e-89c3-229e7986de50"
+    }
+  ],
+  "spy": {
+    "review_date_close": 741.02,
+    "prior_close": 750.58
+  }
+}
