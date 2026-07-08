@@ -1,0 +1,256 @@
+{
+  "review_date": "2026-07-08",
+  "prior_trading_day": "2026-07-07",
+  "generated_at": "2026-07-08T20:30:01.862196+00:00",
+  "account": {
+    "equity": 95757.61,
+    "last_equity": 96379.54,
+    "cash": 47099.83,
+    "buying_power": 324641.1,
+    "portfolio_value": 95757.61
+  },
+  "portfolio_history": {
+    "review_date_close_equity": 96379.54,
+    "prior_close_equity": 96695.13,
+    "raw_window_size": 8
+  },
+  "fills": [
+    {
+      "symbol": "GE",
+      "side": "sell",
+      "qty": 19.0,
+      "fill_price": 360.950526,
+      "fill_time": "2026-07-08T13:35:14.886773+00:00",
+      "order_type": "stop",
+      "id": "c6e53af2-ab3b-4d5d-894f-2dfa7bc2ca15"
+    }
+  ],
+  "open_positions": [
+    {
+      "symbol": "BKNG",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 178.07,
+      "current_price": 174.5,
+      "market_value": 174.5,
+      "unrealized_pl": -3.57,
+      "unrealized_plpc": -0.02005
+    },
+    {
+      "symbol": "CFG",
+      "qty": 106.0,
+      "side": "long",
+      "entry_price": 67.37,
+      "current_price": 68.6848,
+      "market_value": 7280.5888,
+      "unrealized_pl": 139.3688,
+      "unrealized_plpc": 0.01952
+    },
+    {
+      "symbol": "CMS",
+      "qty": 38.0,
+      "side": "long",
+      "entry_price": 77.01,
+      "current_price": 76.19,
+      "market_value": 2895.22,
+      "unrealized_pl": -31.16,
+      "unrealized_plpc": -0.01065
+    },
+    {
+      "symbol": "CVS",
+      "qty": 69.0,
+      "side": "long",
+      "entry_price": 103.76,
+      "current_price": 104.47,
+      "market_value": 7208.43,
+      "unrealized_pl": 48.99,
+      "unrealized_plpc": 0.00684
+    },
+    {
+      "symbol": "DDOG",
+      "qty": 27.0,
+      "side": "long",
+      "entry_price": 258.22,
+      "current_price": 258.99,
+      "market_value": 6992.73,
+      "unrealized_pl": 20.79,
+      "unrealized_plpc": 0.00298
+    },
+    {
+      "symbol": "MNST",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 98.17,
+      "current_price": 95.5,
+      "market_value": 95.5,
+      "unrealized_pl": -2.67,
+      "unrealized_plpc": -0.0272
+    },
+    {
+      "symbol": "MRK",
+      "qty": 57.0,
+      "side": "long",
+      "entry_price": 126.94,
+      "current_price": 126.1,
+      "market_value": 7187.7,
+      "unrealized_pl": -47.88,
+      "unrealized_plpc": -0.00662
+    },
+    {
+      "symbol": "NET",
+      "qty": 26.0,
+      "side": "long",
+      "entry_price": 268.85,
+      "current_price": 272.0,
+      "market_value": 7072.0,
+      "unrealized_pl": 81.9,
+      "unrealized_plpc": 0.01172
+    },
+    {
+      "symbol": "NLY",
+      "qty": 7.0,
+      "side": "long",
+      "entry_price": 22.23,
+      "current_price": 22.65,
+      "market_value": 158.55,
+      "unrealized_pl": 2.94,
+      "unrealized_plpc": 0.01889
+    },
+    {
+      "symbol": "TMO",
+      "qty": 15.0,
+      "side": "long",
+      "entry_price": 508.639333,
+      "current_price": 510.13,
+      "market_value": 7651.95,
+      "unrealized_pl": 22.360005,
+      "unrealized_plpc": 0.00293
+    },
+    {
+      "symbol": "VTR",
+      "qty": 21.0,
+      "side": "long",
+      "entry_price": 92.64,
+      "current_price": 92.41,
+      "market_value": 1940.61,
+      "unrealized_pl": -4.83,
+      "unrealized_plpc": -0.00248
+    }
+  ],
+  "open_orders": [
+    {
+      "symbol": "DDOG",
+      "side": "sell",
+      "qty": 27.0,
+      "order_type": "limit",
+      "limit_price": 284.04,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "184b4de4-85fb-4d41-b539-cc49d159873f"
+    },
+    {
+      "symbol": "NET",
+      "side": "sell",
+      "qty": 26.0,
+      "order_type": "limit",
+      "limit_price": 300.46,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "cb20499d-a656-46bc-9ba5-ce1de2de0dee"
+    },
+    {
+      "symbol": "MNST",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 107.98,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "53cde65b-01c2-4b54-ad79-73f9306b4641"
+    },
+    {
+      "symbol": "VTR",
+      "side": "sell",
+      "qty": 21.0,
+      "order_type": "limit",
+      "limit_price": 101.83,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "d79fdc79-200a-428d-9888-d05e1e0deaba"
+    },
+    {
+      "symbol": "MRK",
+      "side": "sell",
+      "qty": 57.0,
+      "order_type": "limit",
+      "limit_price": 139.38,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "98c4ea75-9b9b-4eb0-8623-580a85b54274"
+    },
+    {
+      "symbol": "CVS",
+      "side": "sell",
+      "qty": 69.0,
+      "order_type": "limit",
+      "limit_price": 114.14,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "d0cac24d-cb0d-4991-b3ea-787a92a9cbdb"
+    },
+    {
+      "symbol": "CMS",
+      "side": "sell",
+      "qty": 38.0,
+      "order_type": "limit",
+      "limit_price": 84.75,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "6a07c2f6-c09a-4db6-9575-535c3f883fa0"
+    },
+    {
+      "symbol": "TMO",
+      "side": "sell",
+      "qty": 15.0,
+      "order_type": "limit",
+      "limit_price": 559.81,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "7a529118-135f-4c46-af04-a4c5417eca8a"
+    },
+    {
+      "symbol": "BKNG",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 196.53,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "51924b19-9632-44dc-848b-41a7b95bd6f4"
+    },
+    {
+      "symbol": "NLY",
+      "side": "sell",
+      "qty": 7.0,
+      "order_type": "limit",
+      "limit_price": 24.43,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "60cab367-6b7d-48a5-a6e9-35697a802bbd"
+    },
+    {
+      "symbol": "CFG",
+      "side": "sell",
+      "qty": 106.0,
+      "order_type": "limit",
+      "limit_price": 74.1,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "19d1d9b5-78bd-49b6-a0b0-53b652927101"
+    }
+  ],
+  "spy": {
+    "review_date_close": 745.28,
+    "prior_close": 747.77
+  }
+}
