@@ -1,0 +1,352 @@
+{
+  "review_date": "2026-07-17",
+  "prior_trading_day": "2026-07-16",
+  "generated_at": "2026-07-17T20:30:01.456599+00:00",
+  "account": {
+    "equity": 96273.59,
+    "last_equity": 96596.06,
+    "cash": 47047.37,
+    "buying_power": 326022.89,
+    "portfolio_value": 96273.59
+  },
+  "portfolio_history": {
+    "review_date_close_equity": 96596.06,
+    "prior_close_equity": 96192.54,
+    "raw_window_size": 9
+  },
+  "fills": [
+    {
+      "symbol": "SHC",
+      "side": "sell",
+      "qty": 280.0,
+      "fill_price": 17.8,
+      "fill_time": "2026-07-17T15:31:03.741067+00:00",
+      "order_type": "market",
+      "id": "b6764a1a-56ea-4953-ae87-06c1a246c692"
+    },
+    {
+      "symbol": "META",
+      "side": "sell",
+      "qty": 2.0,
+      "fill_price": 634.39,
+      "fill_time": "2026-07-17T14:30:11.421579+00:00",
+      "order_type": "market",
+      "id": "840a6e31-b0a9-48ac-989b-d4fef06111e3"
+    },
+    {
+      "symbol": "MRK",
+      "side": "buy",
+      "qty": 1.0,
+      "fill_price": 131.12,
+      "fill_time": "2026-07-17T13:45:58.446532+00:00",
+      "order_type": "market",
+      "id": "24e9e830-dc07-4f0a-b897-7b1e5559b0e7"
+    },
+    {
+      "symbol": "DHR",
+      "side": "buy",
+      "qty": 9.0,
+      "fill_price": 206.42,
+      "fill_time": "2026-07-17T13:45:59.610393+00:00",
+      "order_type": "market",
+      "id": "e738abe1-e40b-4833-86db-4f307915b96f"
+    },
+    {
+      "symbol": "CMS",
+      "side": "sell",
+      "qty": 38.0,
+      "fill_price": 75.62,
+      "fill_time": "2026-07-17T13:45:58.879058+00:00",
+      "order_type": "market",
+      "id": "a702b27b-a719-4025-aa41-b6af4df46154"
+    }
+  ],
+  "open_positions": [
+    {
+      "symbol": "ABT",
+      "qty": 7.0,
+      "side": "long",
+      "entry_price": 98.71,
+      "current_price": 100.68,
+      "market_value": 704.76,
+      "unrealized_pl": 13.79,
+      "unrealized_plpc": 0.01996
+    },
+    {
+      "symbol": "BABA",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 118.76,
+      "current_price": 115.1,
+      "market_value": 115.1,
+      "unrealized_pl": -3.66,
+      "unrealized_plpc": -0.03082
+    },
+    {
+      "symbol": "BKNG",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 178.07,
+      "current_price": 181.68,
+      "market_value": 181.68,
+      "unrealized_pl": 3.61,
+      "unrealized_plpc": 0.02027
+    },
+    {
+      "symbol": "CVS",
+      "qty": 69.0,
+      "side": "long",
+      "entry_price": 103.76,
+      "current_price": 107.47,
+      "market_value": 7415.43,
+      "unrealized_pl": 255.99,
+      "unrealized_plpc": 0.03576
+    },
+    {
+      "symbol": "DDOG",
+      "qty": 27.0,
+      "side": "long",
+      "entry_price": 258.22,
+      "current_price": 258.0658,
+      "market_value": 6967.7766,
+      "unrealized_pl": -4.1634,
+      "unrealized_plpc": -0.0006
+    },
+    {
+      "symbol": "DHR",
+      "qty": 9.0,
+      "side": "long",
+      "entry_price": 206.42,
+      "current_price": 203.83,
+      "market_value": 1834.47,
+      "unrealized_pl": -23.31,
+      "unrealized_plpc": -0.01255
+    },
+    {
+      "symbol": "MNST",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 98.17,
+      "current_price": 97.53,
+      "market_value": 97.53,
+      "unrealized_pl": -0.64,
+      "unrealized_plpc": -0.00652
+    },
+    {
+      "symbol": "MRK",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 131.12,
+      "current_price": 127.6338,
+      "market_value": 127.6338,
+      "unrealized_pl": -3.4862,
+      "unrealized_plpc": -0.02659
+    },
+    {
+      "symbol": "NEE",
+      "qty": 81.0,
+      "side": "long",
+      "entry_price": 89.49,
+      "current_price": 88.8,
+      "market_value": 7192.8,
+      "unrealized_pl": -55.89,
+      "unrealized_plpc": -0.00771
+    },
+    {
+      "symbol": "NET",
+      "qty": 26.0,
+      "side": "long",
+      "entry_price": 268.85,
+      "current_price": 278.7207,
+      "market_value": 7246.7382,
+      "unrealized_pl": 256.6382,
+      "unrealized_plpc": 0.03671
+    },
+    {
+      "symbol": "NLY",
+      "qty": 7.0,
+      "side": "long",
+      "entry_price": 22.23,
+      "current_price": 23.0,
+      "market_value": 161.0,
+      "unrealized_pl": 5.39,
+      "unrealized_plpc": 0.03464
+    },
+    {
+      "symbol": "PANW",
+      "qty": 20.0,
+      "side": "long",
+      "entry_price": 359.51,
+      "current_price": 358.8,
+      "market_value": 7176.0,
+      "unrealized_pl": -14.2,
+      "unrealized_plpc": -0.00197
+    },
+    {
+      "symbol": "TMO",
+      "qty": 15.0,
+      "side": "long",
+      "entry_price": 508.639333,
+      "current_price": 532.48,
+      "market_value": 7987.2,
+      "unrealized_pl": 357.610005,
+      "unrealized_plpc": 0.04687
+    },
+    {
+      "symbol": "VTR",
+      "qty": 21.0,
+      "side": "long",
+      "entry_price": 92.64,
+      "current_price": 96.1,
+      "market_value": 2018.1,
+      "unrealized_pl": 72.66,
+      "unrealized_plpc": 0.03735
+    }
+  ],
+  "open_orders": [
+    {
+      "symbol": "MRK",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 143.7,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "dec5b857-2030-4d06-aa76-8e293f37a87d"
+    },
+    {
+      "symbol": "DHR",
+      "side": "sell",
+      "qty": 9.0,
+      "order_type": "limit",
+      "limit_price": 226.94,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "d31ea6f1-a00d-468f-b455-9cec565fa07c"
+    },
+    {
+      "symbol": "ABT",
+      "side": "sell",
+      "qty": 7.0,
+      "order_type": "limit",
+      "limit_price": 108.58,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "a0d1efb8-a24f-4e8d-89c2-26f0aa5f67ed"
+    },
+    {
+      "symbol": "BABA",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 132.96,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "55315f3e-c42d-4feb-bf2b-65d71859c67a"
+    },
+    {
+      "symbol": "PANW",
+      "side": "sell",
+      "qty": 20.0,
+      "order_type": "limit",
+      "limit_price": 394.03,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "26f69992-a496-489c-9606-8ea710b00c2d"
+    },
+    {
+      "symbol": "NEE",
+      "side": "sell",
+      "qty": 81.0,
+      "order_type": "limit",
+      "limit_price": 98.32,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "5a875e67-8cd0-4eb5-a052-081ef7abf6e8"
+    },
+    {
+      "symbol": "DDOG",
+      "side": "sell",
+      "qty": 27.0,
+      "order_type": "limit",
+      "limit_price": 284.04,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "184b4de4-85fb-4d41-b539-cc49d159873f"
+    },
+    {
+      "symbol": "NET",
+      "side": "sell",
+      "qty": 26.0,
+      "order_type": "limit",
+      "limit_price": 300.46,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "cb20499d-a656-46bc-9ba5-ce1de2de0dee"
+    },
+    {
+      "symbol": "MNST",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 107.98,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "53cde65b-01c2-4b54-ad79-73f9306b4641"
+    },
+    {
+      "symbol": "VTR",
+      "side": "sell",
+      "qty": 21.0,
+      "order_type": "limit",
+      "limit_price": 101.83,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "d79fdc79-200a-428d-9888-d05e1e0deaba"
+    },
+    {
+      "symbol": "CVS",
+      "side": "sell",
+      "qty": 69.0,
+      "order_type": "limit",
+      "limit_price": 114.14,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "d0cac24d-cb0d-4991-b3ea-787a92a9cbdb"
+    },
+    {
+      "symbol": "TMO",
+      "side": "sell",
+      "qty": 15.0,
+      "order_type": "limit",
+      "limit_price": 559.81,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "7a529118-135f-4c46-af04-a4c5417eca8a"
+    },
+    {
+      "symbol": "BKNG",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 196.53,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "51924b19-9632-44dc-848b-41a7b95bd6f4"
+    },
+    {
+      "symbol": "NLY",
+      "side": "sell",
+      "qty": 7.0,
+      "order_type": "limit",
+      "limit_price": 24.43,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "60cab367-6b7d-48a5-a6e9-35697a802bbd"
+    }
+  ],
+  "spy": {
+    "review_date_close": 743.28,
+    "prior_close": 750.87
+  }
+}
