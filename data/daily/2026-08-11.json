@@ -1,0 +1,166 @@
+{
+  "review_date": "2026-08-11",
+  "prior_trading_day": "2026-08-10",
+  "generated_at": "2026-08-11T20:30:01.942930+00:00",
+  "account": {
+    "equity": 95447.21,
+    "last_equity": 95552.09,
+    "cash": 80491.61,
+    "buying_power": 363842.12,
+    "portfolio_value": 95447.21
+  },
+  "portfolio_history": {
+    "review_date_close_equity": 95552.09,
+    "prior_close_equity": 95347.63,
+    "raw_window_size": 9
+  },
+  "fills": [
+    {
+      "symbol": "LEVI",
+      "side": "sell",
+      "qty": 1.0,
+      "fill_price": 22.9,
+      "fill_time": "2026-08-11T19:00:23.846853+00:00",
+      "order_type": "stop",
+      "id": "906c9eff-0da2-4260-a631-eb73f7adb072"
+    }
+  ],
+  "open_positions": [
+    {
+      "symbol": "BAC",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 60.83,
+      "current_price": 64.02,
+      "market_value": 64.02,
+      "unrealized_pl": 3.19,
+      "unrealized_plpc": 0.05244
+    },
+    {
+      "symbol": "BJ",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 92.83,
+      "current_price": 93.96,
+      "market_value": 93.96,
+      "unrealized_pl": 1.13,
+      "unrealized_plpc": 0.01217
+    },
+    {
+      "symbol": "KMX",
+      "qty": 125.0,
+      "side": "long",
+      "entry_price": 57.64992,
+      "current_price": 58.18,
+      "market_value": 7272.5,
+      "unrealized_pl": 66.26,
+      "unrealized_plpc": 0.00919
+    },
+    {
+      "symbol": "MRK",
+      "qty": 55.0,
+      "side": "long",
+      "entry_price": 128.33,
+      "current_price": 130.42,
+      "market_value": 7173.1,
+      "unrealized_pl": 114.95,
+      "unrealized_plpc": 0.01629
+    },
+    {
+      "symbol": "NDAQ",
+      "qty": 2.0,
+      "side": "long",
+      "entry_price": 91.12,
+      "current_price": 95.02,
+      "market_value": 190.04,
+      "unrealized_pl": 7.8,
+      "unrealized_plpc": 0.0428
+    },
+    {
+      "symbol": "NLY",
+      "qty": 7.0,
+      "side": "long",
+      "entry_price": 22.23,
+      "current_price": 23.14,
+      "market_value": 161.98,
+      "unrealized_pl": 6.37,
+      "unrealized_plpc": 0.04094
+    }
+  ],
+  "open_orders": [
+    {
+      "symbol": "KMX",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 63.89,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "2ed79de4-1a81-4bde-b45a-85e42cbe076a"
+    },
+    {
+      "symbol": "NDAQ",
+      "side": "sell",
+      "qty": 2.0,
+      "order_type": "limit",
+      "limit_price": 100.23,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "2d6cc463-9ae9-4a22-b76a-2a366b6729f8"
+    },
+    {
+      "symbol": "MRK",
+      "side": "sell",
+      "qty": 55.0,
+      "order_type": "limit",
+      "limit_price": 141.12,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "aa6b64e0-ff35-43d7-b0c8-5f17d9f28ef6"
+    },
+    {
+      "symbol": "KMX",
+      "side": "sell",
+      "qty": 124.0,
+      "order_type": "limit",
+      "limit_price": 63.27,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "707d4eb6-4090-4215-9f3e-c4faead7b633"
+    },
+    {
+      "symbol": "BJ",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 102.08,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "7b2ec1e4-39b3-4b88-b7d9-aa7d99d74271"
+    },
+    {
+      "symbol": "BAC",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 66.91,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "d4656fdd-3c8f-4ba9-9cf4-2cb7e4c168ae"
+    },
+    {
+      "symbol": "NLY",
+      "side": "sell",
+      "qty": 7.0,
+      "order_type": "limit",
+      "limit_price": 24.43,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "60cab367-6b7d-48a5-a6e9-35697a802bbd"
+    }
+  ],
+  "spy": {
+    "review_date_close": 770.52,
+    "prior_close": 773.02
+  }
+}
