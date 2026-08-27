@@ -1,0 +1,86 @@
+{
+  "review_date": "2026-08-27",
+  "prior_trading_day": "2026-08-26",
+  "generated_at": "2026-08-27T20:30:00.834827+00:00",
+  "account": {
+    "equity": 97044.2,
+    "last_equity": 97044.45,
+    "cash": 96730.56,
+    "buying_power": 387800.43,
+    "portfolio_value": 97044.2
+  },
+  "portfolio_history": {
+    "review_date_close_equity": 97044.45,
+    "prior_close_equity": 97045.89,
+    "raw_window_size": 9
+  },
+  "fills": [],
+  "open_positions": [
+    {
+      "symbol": "BAC",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 60.83,
+      "current_price": 61.31,
+      "market_value": 61.31,
+      "unrealized_pl": 0.48,
+      "unrealized_plpc": 0.00789
+    },
+    {
+      "symbol": "BJ",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 92.83,
+      "current_price": 90.49,
+      "market_value": 90.49,
+      "unrealized_pl": -2.34,
+      "unrealized_plpc": -0.02521
+    },
+    {
+      "symbol": "NLY",
+      "qty": 7.0,
+      "side": "long",
+      "entry_price": 22.23,
+      "current_price": 23.12,
+      "market_value": 161.84,
+      "unrealized_pl": 6.23,
+      "unrealized_plpc": 0.04004
+    }
+  ],
+  "open_orders": [
+    {
+      "symbol": "BJ",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 102.08,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "7b2ec1e4-39b3-4b88-b7d9-aa7d99d74271"
+    },
+    {
+      "symbol": "BAC",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 66.91,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "d4656fdd-3c8f-4ba9-9cf4-2cb7e4c168ae"
+    },
+    {
+      "symbol": "NLY",
+      "side": "sell",
+      "qty": 7.0,
+      "order_type": "limit",
+      "limit_price": 24.43,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "60cab367-6b7d-48a5-a6e9-35697a802bbd"
+    }
+  ],
+  "spy": {
+    "review_date_close": 771.18,
+    "prior_close": 765.94
+  }
+}
