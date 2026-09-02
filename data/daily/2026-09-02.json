@@ -1,0 +1,86 @@
+{
+  "review_date": "2026-09-02",
+  "prior_trading_day": "2026-09-01",
+  "generated_at": "2026-09-02T20:30:01.108242+00:00",
+  "account": {
+    "equity": 97045.18,
+    "last_equity": 97042.34,
+    "cash": 96730.53,
+    "buying_power": 387803.13,
+    "portfolio_value": 97045.18
+  },
+  "portfolio_history": {
+    "review_date_close_equity": 97042.34,
+    "prior_close_equity": 97043.56,
+    "raw_window_size": 9
+  },
+  "fills": [],
+  "open_positions": [
+    {
+      "symbol": "BAC",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 60.83,
+      "current_price": 62.6461,
+      "market_value": 62.6461,
+      "unrealized_pl": 1.8161,
+      "unrealized_plpc": 0.02986
+    },
+    {
+      "symbol": "BJ",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 92.83,
+      "current_price": 92.75,
+      "market_value": 92.75,
+      "unrealized_pl": -0.08,
+      "unrealized_plpc": -0.00086
+    },
+    {
+      "symbol": "NLY",
+      "qty": 7.0,
+      "side": "long",
+      "entry_price": 22.23,
+      "current_price": 22.75,
+      "market_value": 159.25,
+      "unrealized_pl": 3.64,
+      "unrealized_plpc": 0.02339
+    }
+  ],
+  "open_orders": [
+    {
+      "symbol": "BJ",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 102.08,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "7b2ec1e4-39b3-4b88-b7d9-aa7d99d74271"
+    },
+    {
+      "symbol": "BAC",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 66.91,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "d4656fdd-3c8f-4ba9-9cf4-2cb7e4c168ae"
+    },
+    {
+      "symbol": "NLY",
+      "side": "sell",
+      "qty": 7.0,
+      "order_type": "limit",
+      "limit_price": 24.43,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "60cab367-6b7d-48a5-a6e9-35697a802bbd"
+    }
+  ],
+  "spy": {
+    "review_date_close": 765.13,
+    "prior_close": 761.63
+  }
+}
