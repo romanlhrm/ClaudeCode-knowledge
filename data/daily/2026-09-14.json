@@ -1,0 +1,66 @@
+{
+  "review_date": "2026-09-14",
+  "prior_trading_day": "2026-09-11",
+  "generated_at": "2026-09-14T20:30:02.114487+00:00",
+  "account": {
+    "equity": 97030.97,
+    "last_equity": 97034.6,
+    "cash": 96818.61,
+    "buying_power": 387869.04,
+    "portfolio_value": 97030.97
+  },
+  "portfolio_history": {
+    "review_date_close_equity": null,
+    "prior_close_equity": 97034.6,
+    "raw_window_size": 8
+  },
+  "fills": [],
+  "open_positions": [
+    {
+      "symbol": "BAC",
+      "qty": 1.0,
+      "side": "long",
+      "entry_price": 60.83,
+      "current_price": 59.478,
+      "market_value": 59.478,
+      "unrealized_pl": -1.352,
+      "unrealized_plpc": -0.02223
+    },
+    {
+      "symbol": "NLY",
+      "qty": 7.0,
+      "side": "long",
+      "entry_price": 22.23,
+      "current_price": 21.84,
+      "market_value": 152.88,
+      "unrealized_pl": -2.73,
+      "unrealized_plpc": -0.01754
+    }
+  ],
+  "open_orders": [
+    {
+      "symbol": "BAC",
+      "side": "sell",
+      "qty": 1.0,
+      "order_type": "limit",
+      "limit_price": 66.91,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "d4656fdd-3c8f-4ba9-9cf4-2cb7e4c168ae"
+    },
+    {
+      "symbol": "NLY",
+      "side": "sell",
+      "qty": 7.0,
+      "order_type": "limit",
+      "limit_price": 24.43,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "60cab367-6b7d-48a5-a6e9-35697a802bbd"
+    }
+  ],
+  "spy": {
+    "review_date_close": 760.755,
+    "prior_close": 764.14
+  }
+}
