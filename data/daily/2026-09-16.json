@@ -1,0 +1,43 @@
+{
+  "review_date": "2026-09-16",
+  "prior_trading_day": "2026-09-15",
+  "generated_at": "2026-09-16T20:30:01.740154+00:00",
+  "account": {
+    "equity": 97024.24,
+    "last_equity": 97028.0,
+    "cash": 97024.24,
+    "buying_power": 388096.96,
+    "portfolio_value": 97024.24
+  },
+  "portfolio_history": {
+    "review_date_close_equity": 97028.0,
+    "prior_close_equity": 97030.96,
+    "raw_window_size": 8
+  },
+  "fills": [
+    {
+      "symbol": "NLY",
+      "side": "sell",
+      "qty": 7.0,
+      "fill_price": 21.12,
+      "fill_time": "2026-09-16T19:19:09.889606+00:00",
+      "order_type": "stop",
+      "id": "114d8604-8743-429b-894f-4595d95b08ee"
+    },
+    {
+      "symbol": "BAC",
+      "side": "sell",
+      "qty": 1.0,
+      "fill_price": 57.79,
+      "fill_time": "2026-09-16T18:56:07.284458+00:00",
+      "order_type": "stop",
+      "id": "1f61fb21-c919-4c94-a370-a52b866f7cfb"
+    }
+  ],
+  "open_positions": [],
+  "open_orders": [],
+  "spy": {
+    "review_date_close": 754.05,
+    "prior_close": 757.42
+  }
+}
