@@ -1,0 +1,24 @@
+{
+  "review_date": "2026-10-09",
+  "prior_trading_day": "2026-10-08",
+  "generated_at": "2026-10-09T20:30:01.369736+00:00",
+  "account": {
+    "equity": 97024.24,
+    "last_equity": 97024.24,
+    "cash": 97024.24,
+    "buying_power": 388096.96,
+    "portfolio_value": 97024.24
+  },
+  "portfolio_history": {
+    "review_date_close_equity": 97024.24,
+    "prior_close_equity": 97024.24,
+    "raw_window_size": 9
+  },
+  "fills": [],
+  "open_positions": [],
+  "open_orders": [],
+  "spy": {
+    "review_date_close": 778.51,
+    "prior_close": 773.88
+  }
+}
