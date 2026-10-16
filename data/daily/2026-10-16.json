@@ -1,0 +1,56 @@
+{
+  "review_date": "2026-10-16",
+  "prior_trading_day": "2026-10-15",
+  "generated_at": "2026-10-16T20:30:01.606555+00:00",
+  "account": {
+    "equity": 96984.31,
+    "last_equity": 97024.24,
+    "cash": 89772.91,
+    "buying_power": 379283.56,
+    "portfolio_value": 96984.31
+  },
+  "portfolio_history": {
+    "review_date_close_equity": 97024.24,
+    "prior_close_equity": 97024.24,
+    "raw_window_size": 9
+  },
+  "fills": [
+    {
+      "symbol": "AAPL",
+      "side": "buy",
+      "qty": 21.0,
+      "fill_price": 345.301429,
+      "fill_time": "2026-10-16T15:31:10.033423+00:00",
+      "order_type": "market",
+      "id": "587f3e4b-defb-4e77-883b-88f3efb2b121"
+    }
+  ],
+  "open_positions": [
+    {
+      "symbol": "AAPL",
+      "qty": 21.0,
+      "side": "long",
+      "entry_price": 345.301429,
+      "current_price": 343.4,
+      "market_value": 7211.4,
+      "unrealized_pl": -39.930009,
+      "unrealized_plpc": -0.00551
+    }
+  ],
+  "open_orders": [
+    {
+      "symbol": "AAPL",
+      "side": "sell",
+      "qty": 21.0,
+      "order_type": "limit",
+      "limit_price": 386.99,
+      "stop_price": null,
+      "time_in_force": "gtc",
+      "id": "e6637fe1-c82a-41a5-a616-52a4daea23e7"
+    }
+  ],
+  "spy": {
+    "review_date_close": 763.335,
+    "prior_close": 771.77
+  }
+}
